@@ -9,3 +9,31 @@
 .titulo-sueños {
     color: blueviolet;
 }
+
+article section p span{
+    font-weight: bold;
+}
+
+.navbar{
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.navbar li{
+    margin: 0 10px 0 0;
+}
+
+.navbar li a{
+    text-decoration: none;
+}
+
+.navbar li a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.contenedor{
+    width: 1200px;
+    margin: 0 auto;
+}
